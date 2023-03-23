@@ -4,9 +4,9 @@ import styles from "./style";
 import { Navbar, Heroa, Added, Footer, Button, Cocktails, Premium } from "./Components";
 
 const App = () => (
-    <div className="bg-black w-full overflow-hidden">
-        <div className={`${styles.paddingX} ${styles.flexCenter}`}>
-            <div className={`${styles.boxWidth}`}>
+    <div className=" bg-white w-full overflow-hidden">
+        <div className={` bg-black pl-20 ${styles.flexCenter}`}>
+            <div className={`${styles.boxWidth}`} >
                 <Navbar/>
             </div>
         </div>
@@ -18,11 +18,19 @@ const App = () => (
         
         <div className={`${styles.paddingX} ${styles.flexStart}`}>
             <div className={`${styles.boxWidth}`}>
-            <Added/>
-            <Footer/>
-            <Button/>
-            <Cocktails/>
             <Premium/>
+            </div>
+        </div>
+
+        <div className={`${styles.paddingX} ${styles.flexStart}`}>
+            <div className={`${styles.boxWidth}`}>
+            <Added/>
+            </div>
+        </div>
+
+        <div className={`${styles.paddingX} ${styles.flexStart}`}>
+            <div className={`${styles.boxWidth}`}>
+            <Cocktails/>
             </div>
         </div>
 

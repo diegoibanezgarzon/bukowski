@@ -5,7 +5,7 @@ const Heroa = () => {
   return (
     <div class="relative h-screen overflow-hidden bg-indigo-900">
       <img
-        src="https://i.postimg.cc/2yJ33RjC/PORTADA.png"
+        src="https://i.postimg.cc/MpNDrSgD/PORTADA-1.png"
         class="absolute object-cover w-full h-full"
       />
       <div class="absolute inset-0 bg-black opacity-25"></div>
