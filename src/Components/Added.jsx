@@ -76,16 +76,16 @@ function Added() {
     // </div>
     <div className="container mx-auto">
       <CocktailSearch searchText={(text) => setTerm(text)} />
-      {!isLoading && cocktails.length === 0 && (
+      {!isLoading && !cocktails && (
         <h1 className=" text-5xl text-center mx-auto mt-32">
-          No se encontraron cocteles
+          No se encontraron cócteles
         </h1>
       )}
       {isLoading ? (
         <h1 className=" text-6xl text-center mx-auto mt-32">Cargando...</h1>
       ) : (
         <div className="grid grid-cols-4 gap-4">
-          {cocktails.map((cocktail) => (
+          {cocktails?.map((cocktail) => (
             <Cocktailcard key={cocktail.idDrink} cocktail={cocktail} />
           ))}
         </div>
