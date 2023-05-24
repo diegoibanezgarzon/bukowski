@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.cocktails-page{
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  
+}
+
+.h-footer{
+  height: 70vh;
+}
