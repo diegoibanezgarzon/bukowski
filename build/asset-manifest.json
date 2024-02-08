@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec71178d.css",
-    "main.js": "/static/js/main.63ce1cc4.js",
-    "static/js/787.a5e8a21e.chunk.js": "/static/js/787.a5e8a21e.chunk.js",
-    "static/media/img3.jpg": "/static/media/img3.d7274d5fae4eefe76ce2.jpg",
-    "static/media/img4.jpg": "/static/media/img4.9a3035ef1fdf40cde4e7.jpg",
-    "static/media/img1.jpg": "/static/media/img1.aa1bc21af35ffbe15f1f.jpg",
-    "static/media/friends.jpg": "/static/media/friends.50bbddfdfd849217dc01.jpg",
-    "static/media/img2.jpg": "/static/media/img2.55fc0acf0df6aca7f7c7.jpg",
-    "static/media/cocktail-01.png": "/static/media/cocktail-01.00c1cadf238bd39cc120.png",
-    "static/media/MaskGroup.png": "/static/media/MaskGroup.9ccef7d4bd805e7ed9af.png",
-    "static/media/logoBukowskia.png": "/static/media/logoBukowskia.2b3291c4224ec3633f8f.png",
-    "index.html": "/index.html",
-    "main.ec71178d.css.map": "/static/css/main.ec71178d.css.map",
-    "main.63ce1cc4.js.map": "/static/js/main.63ce1cc4.js.map",
-    "787.a5e8a21e.chunk.js.map": "/static/js/787.a5e8a21e.chunk.js.map"
+    "main.css": "/bukowski/build/static/css/main.ec71178d.css",
+    "main.js": "/bukowski/build/static/js/main.217a6769.js",
+    "static/js/787.a5e8a21e.chunk.js": "/bukowski/build/static/js/787.a5e8a21e.chunk.js",
+    "static/media/img3.jpg": "/bukowski/build/static/media/img3.d7274d5fae4eefe76ce2.jpg",
+    "static/media/img4.jpg": "/bukowski/build/static/media/img4.9a3035ef1fdf40cde4e7.jpg",
+    "static/media/img1.jpg": "/bukowski/build/static/media/img1.aa1bc21af35ffbe15f1f.jpg",
+    "static/media/friends.jpg": "/bukowski/build/static/media/friends.50bbddfdfd849217dc01.jpg",
+    "static/media/img2.jpg": "/bukowski/build/static/media/img2.55fc0acf0df6aca7f7c7.jpg",
+    "static/media/cocktail-01.png": "/bukowski/build/static/media/cocktail-01.00c1cadf238bd39cc120.png",
+    "static/media/MaskGroup.png": "/bukowski/build/static/media/MaskGroup.9ccef7d4bd805e7ed9af.png",
+    "static/media/logoBukowskia.png": "/bukowski/build/static/media/logoBukowskia.2b3291c4224ec3633f8f.png",
+    "index.html": "/bukowski/build/index.html",
+    "main.ec71178d.css.map": "/bukowski/build/static/css/main.ec71178d.css.map",
+    "main.217a6769.js.map": "/bukowski/build/static/js/main.217a6769.js.map",
+    "787.a5e8a21e.chunk.js.map": "/bukowski/build/static/js/787.a5e8a21e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec71178d.css",
-    "static/js/main.63ce1cc4.js"
+    "static/js/main.217a6769.js"
   ]
 }
